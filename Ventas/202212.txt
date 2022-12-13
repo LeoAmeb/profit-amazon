@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+ <DocumentVersion>1.00</DocumentVersion>
+ </Header>
+<MessageType>AllOrdersReport</MessageType>
+<Message>
+   <Order>
+      <AmazonOrderID>701-1508654-8496248</AmazonOrderID>
+      <MerchantOrderID>701-1508654-8496248</MerchantOrderID>
+      <PurchaseDate>2022-12-10T20:18:07+00:00</PurchaseDate>
+      <LastUpdatedDate>2022-12-11T08:30:50+00:00</LastUpdatedDate>
+      <OrderStatus>Pending</OrderStatus>
+      <SalesChannel>Amazon.com.mx</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>CIUDAD DE MEXICO</City>
+            <State>CIUDAD DE MEXICO</State>
+            <PostalCode>09480</PostalCode>
+            <Country>MX</Country>
+         </Address>
+     </FulfillmentData>
+     <IsBusinessOrder>false</IsBusinessOrder>
+     <PaymentMethodDetails>CreditCard</PaymentMethodDetails>
+     <OrderItem>
+        <AmazonOrderItemCode>27436231809970</AmazonOrderItemCode>
+        <ASIN>B09YTHFGMV</ASIN>
+        <SKU>AO-004</SKU>
+        <ItemStatus>Unshipped</ItemStatus>
+        <ProductName>Azul Otoño | Vela Aromática Hecha a Mano con Cera de Soya y Abeja Libre de Ftalatos| Frasco de Vidrio con Tapa de Aluminio | 200 gr / 7oz | 40 a 50</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="MXN">275.86</Amount>
+           </Component>
+           <Component>
+              <Type>Tax</Type>
+              <Amount currency="MXN">44.14</Amount>
+           </Component>
+        </ItemPrice>
+        <Promotion>
+          <PromotionIDs>MX Core Free Shipping 2015/06/08 16-42-41-775</PromotionIDs>
+        </Promotion>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>701-3010554-2075428</AmazonOrderID>
+      <MerchantOrderID>701-3010554-2075428</MerchantOrderID>
+      <PurchaseDate>2022-12-10T05:00:38+00:00</PurchaseDate>
+      <LastUpdatedDate>2022-12-11T06:26:16+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.com.mx</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Expedited</ShipServiceLevel>
+         <Address>
+            <City>SALAMANCA</City>
+            <State>GUANAJUATO</State>
+            <PostalCode>36710</PostalCode>
+            <Country>MX</Country>
+         </Address>
+     </FulfillmentData>
+     <IsBusinessOrder>false</IsBusinessOrder>
+     <PaymentMethodDetails>CreditCard</PaymentMethodDetails>
+     <OrderItem>
+        <AmazonOrderItemCode>41643165135466</AmazonOrderItemCode>
+        <ASIN>B09YTJRFRD</ASIN>
+        <SKU>AO-002</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Azul Otoño | Vela Aromática Hecha a Mano con Cera de Soya y Abeja Libre de Ftalatos| Frasco de Vidrio con Tapa de Aluminio | 200 gr / 7oz | 40 a 50</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="MXN">275.86</Amount>
+           </Component>
+           <Component>
+              <Type>Tax</Type>
+              <Amount currency="MXN">44.14</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>702-0991161-8986620</AmazonOrderID>
+      <MerchantOrderID>702-0991161-8986620</MerchantOrderID>
+      <PurchaseDate>2022-12-09T23:35:38+00:00</PurchaseDate>
+      <LastUpdatedDate>2022-12-10T21:31:08+00:00</LastUpdatedDate>
+      <OrderStatus>Pending</OrderStatus>
+      <SalesChannel>Amazon.com.mx</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Expedited</ShipServiceLevel>
+         <Address>
+            <City>VALLE DE BRAVO</City>
+            <State>MEXICO</State>
+            <PostalCode>51200</PostalCode>
+            <Country>MX</Country>
+         </Address>
+     </FulfillmentData>
+     <IsBusinessOrder>false</IsBusinessOrder>
+     <PaymentMethodDetails>CreditCard</PaymentMethodDetails>
+     <OrderItem>
+        <AmazonOrderItemCode>22804234294018</AmazonOrderItemCode>
+        <ASIN>B09YTPXS1F</ASIN>
+        <SKU>AO-001</SKU>
+        <ItemStatus>Unshipped</ItemStatus>
+        <ProductName>Azul Otoño | Vela Aromática Hecha a Mano con Cera de Soya y Abeja Libre de Ftalatos| Frasco de Vidrio con Tapa de Aluminio | 200 gr / 7oz | 40 a 50</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="MXN">275.86</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>S01-0867022-0954862</AmazonOrderID>
+      <MerchantOrderID>ET-22-051</MerchantOrderID>
+      <PurchaseDate>2022-12-08T17:21:21+00:00</PurchaseDate>
+      <LastUpdatedDate>2022-12-09T08:10:25+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Non-Amazon</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>COTTONWOOD</City>
+            <State>CA</State>
+            <PostalCode>96022</PostalCode>
+            <Country>US</Country>
+         </Address>
+     </FulfillmentData>
+     <IsBusinessOrder>false</IsBusinessOrder>
+     <OrderItem>
+        <AmazonOrderItemCode>ET-22-051-0</AmazonOrderItemCode>
+        <ASIN>B07SRP94Q5</ASIN>
+        <SKU>SOLAM02</SKU>
+        <ItemStatus>Unshipped</ItemStatus>
+        <ProductName>Sun Face of Mexican Talavera Ceramic Hand Painted - Decorative Wall Hanging - 12&quot; (Yellow)</ProductName>
+        <Quantity>1</Quantity>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>113-9375828-4713049</AmazonOrderID>
+      <MerchantOrderID>113-9375828-4713049</MerchantOrderID>
+      <PurchaseDate>2022-12-12T21:48:17+00:00</PurchaseDate>
+      <LastUpdatedDate>2022-12-12T21:49:58+00:00</LastUpdatedDate>
+      <OrderStatus>Pending</OrderStatus>
+      <SalesChannel>Amazon.com</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>SecondDay</ShipServiceLevel>
+         <Address>
+            <City>ST JAMES CITY</City>
+            <State>FL</State>
+            <PostalCode>33956-2334</PostalCode>
+            <Country>US</Country>
+         </Address>
+     </FulfillmentData>
+     <IsBusinessOrder>false</IsBusinessOrder>
+     <PaymentMethodDetails>Standard</PaymentMethodDetails>
+     <OrderItem>
+        <AmazonOrderItemCode>15428100382314</AmazonOrderItemCode>
+        <ASIN>B084R92V8R</ASIN>
+        <SKU>NUM009</SKU>
+        <ItemStatus>Unshipped</ItemStatus>
+        <ProductName>ARTESANO | Talavera House Numbers Hand Painted (1) | Address Number | Tiles for Sign | Ceramic Tile House 5.5 x 3.7 inches (Number 9)</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="USD">9.97</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+     <OrderItem>
+        <AmazonOrderItemCode>53588423548802</AmazonOrderItemCode>
+        <ASIN>B084RGB7QM</ASIN>
+        <SKU>NUM002</SKU>
+        <ItemStatus>Unshipped</ItemStatus>
+        <ProductName>ARTESANO | Talavera House Numbers Hand Painted (1) | Address Number | Tiles for Sign | Ceramic Tile House 5.5 x 3.7 inches (Number 2)</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="USD">13.97</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+     <OrderItem>
+        <AmazonOrderItemCode>17696282205498</AmazonOrderItemCode>
+        <ASIN>B084RKFMFX</ASIN>
+        <SKU>NUM001</SKU>
+        <ItemStatus>Unshipped</ItemStatus>
+        <ProductName>ARTESANO | Talavera House Numbers Hand Painted (1) | Address Number | Tiles for Sign | Ceramic Tile House 5.5 x 3.7 inches (Number 1)</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="USD">13.97</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+     <OrderItem>
+        <AmazonOrderItemCode>57137739293394</AmazonOrderItemCode>
+        <ASIN>B08GGCLXZD</ASIN>
+        <SKU>35-AEUY-ZW3F</SKU>
+        <ItemStatus>Unshipped</ItemStatus>
+        <ProductName>ARTESANO | Talavera House Numbers Hand Painted (1) | Address Number | Tiles for Sign | Ceramic Tile House 5.5 x 3.7 inches (Number 3)</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="USD">13.97</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>112-6030640-2065815</AmazonOrderID>
+      <MerchantOrderID>112-6030640-2065815</MerchantOrderID>
+      <PurchaseDate>2022-12-12T15:58:09+00:00</PurchaseDate>
+      <LastUpdatedDate>2022-12-12T15:58:17+00:00</LastUpdatedDate>
+      <OrderStatus>Pending</OrderStatus>
+      <SalesChannel>Amazon.com</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Expedited</ShipServiceLevel>
+         <Address>
+            <City>LONDON</City>
+            <State>OH</State>
+            <PostalCode>43140-9079</PostalCode>
+            <Country>US</Country>
+         </Address>
+     </FulfillmentData>
+     <IsBusinessOrder>false</IsBusinessOrder>
+     <PaymentMethodDetails>Standard</PaymentMethodDetails>
+     <OrderItem>
+        <AmazonOrderItemCode>55886395214170</AmazonOrderItemCode>
+        <ASIN>B09Y7GZ169</ASIN>
+        <SKU>SR0002</SKU>
+        <ItemStatus>Unshipped</ItemStatus>
+        <ProductName>Napkin Holder Mexican Pottery Hand Painted | Ceramic Utensil Holder Servilletero for Kitchen | Decor for Fiestas Mexicanas | Artesania Mexicana | ARTE</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="USD">22.97</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>111-6878023-1001833</AmazonOrderID>
+      <MerchantOrderID>111-6878023-1001833</MerchantOrderID>
+      <PurchaseDate>2022-12-11T23:43:53+00:00</PurchaseDate>
+      <LastUpdatedDate>2022-12-12T04:58:58+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.com</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Expedited</ShipServiceLevel>
+         <Address>
+            <City>BEVERLY HILLS</City>
+            <State>CA</State>
+            <PostalCode>90211-2926</PostalCode>
+            <Country>US</Country>
+         </Address>
+     </FulfillmentData>
+     <IsBusinessOrder>false</IsBusinessOrder>
+     <PaymentMethodDetails>Standard</PaymentMethodDetails>
+     <OrderItem>
+        <AmazonOrderItemCode>28982240177426</AmazonOrderItemCode>
+        <ASIN>B09Y7GZ169</ASIN>
+        <SKU>SR0002</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Napkin Holder Mexican Pottery Hand Painted | Ceramic Utensil Holder Servilletero for Kitchen | Decor for Fiestas Mexicanas | Artesania Mexicana | ARTE</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="USD">22.97</Amount>
+           </Component>
+           <Component>
+              <Type>Tax</Type>
+              <Amount currency="USD">2.18</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>113-3930964-9409837</AmazonOrderID>
+      <MerchantOrderID>113-3930964-9409837</MerchantOrderID>
+      <PurchaseDate>2022-12-10T18:41:57+00:00</PurchaseDate>
+      <LastUpdatedDate>2022-12-12T20:54:28+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.com</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>SecondDay</ShipServiceLevel>
+         <Address>
+            <City>SAN JOSE</City>
+            <State>CA</State>
+            <PostalCode>95127-4322</PostalCode>
+            <Country>US</Country>
+         </Address>
+     </FulfillmentData>
+     <IsBusinessOrder>false</IsBusinessOrder>
+     <PaymentMethodDetails>Standard</PaymentMethodDetails>
+     <OrderItem>
+        <AmazonOrderItemCode>11343120147602</AmazonOrderItemCode>
+        <ASIN>B07XBQMFYZ</ASIN>
+        <SKU>O5-IRDC-0AJY</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Talavera Spoon Rest Mexican Pottery Hand Painted - Mexican Pottery Handcrafted Majolica | ARTESANO (Yellow)</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="USD">24.97</Amount>
+           </Component>
+           <Component>
+              <Type>Tax</Type>
+              <Amount currency="USD">2.34</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>114-5900904-2465869</AmazonOrderID>
+      <MerchantOrderID>114-5900904-2465869</MerchantOrderID>
+      <PurchaseDate>2022-12-10T18:01:20+00:00</PurchaseDate>
+      <LastUpdatedDate>2022-12-12T10:04:44+00:00</LastUpdatedDate>
+      <OrderStatus>Cancelled</OrderStatus>
+      <SalesChannel>Amazon.com</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Expedited</ShipServiceLevel>
+         <Address>
+            <City>Logan</City>
+            <State>Ohio</State>
+            <PostalCode>43138</PostalCode>
+            <Country>US</Country>
+         </Address>
+     </FulfillmentData>
+     <IsBusinessOrder>false</IsBusinessOrder>
+     <PaymentMethodDetails>Standard</PaymentMethodDetails>
+     <OrderItem>
+        <AmazonOrderItemCode>44053799648978</AmazonOrderItemCode>
+        <ASIN>B0B278K4BF</ASIN>
+        <SKU>MG-OV-YL</SKU>
+        <ItemStatus>Cancelled</ItemStatus>
+        <ProductName>ARTESANO | Mexican Pottery Ceramic Large Mug of Talavera Hand Painted | to Drink Coffee, Chocolate, Tea, Cappuccino | Cup Extra Large 16 oz | 4.6&quot; (Ye</ProductName>
+        <Quantity>0</Quantity>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>111-1936978-3031452</AmazonOrderID>
+      <MerchantOrderID>111-1936978-3031452</MerchantOrderID>
+      <PurchaseDate>2022-12-08T20:31:49+00:00</PurchaseDate>
+      <LastUpdatedDate>2022-12-09T19:26:25+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.com</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Expedited</ShipServiceLevel>
+         <Address>
+            <City>WINTER HAVEN</City>
+            <State>FL</State>
+            <PostalCode>33884-3107</PostalCode>
+            <Country>US</Country>
+         </Address>
+     </FulfillmentData>
+     <IsBusinessOrder>false</IsBusinessOrder>
+     <PaymentMethodDetails>Standard</PaymentMethodDetails>
+     <OrderItem>
+        <AmazonOrderItemCode>25857668618554</AmazonOrderItemCode>
+        <ASIN>B07NCBPMNJ</ASIN>
+        <SKU>FTROGL</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Artesano | Fruit Bowl - Decorative Plate - Hand Painted Mexican Pottery Talavera - 11.4&quot; (Red)</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="USD">74.97</Amount>
+           </Component>
+           <Component>
+              <Type>Tax</Type>
+              <Amount currency="USD">5.25</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>114-5903253-5093059</AmazonOrderID>
+      <MerchantOrderID>114-5903253-5093059</MerchantOrderID>
+      <PurchaseDate>2022-12-08T04:47:52+00:00</PurchaseDate>
+      <LastUpdatedDate>2022-12-08T04:47:58+00:00</LastUpdatedDate>
+      <OrderStatus>Pending</OrderStatus>
+      <SalesChannel>Amazon.com</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>SecondDay</ShipServiceLevel>
+         <Address>
+            <City>MANCHESTER</City>
+            <State>TN</State>
+            <PostalCode>37355-5703</PostalCode>
+            <Country>US</Country>
+         </Address>
+     </FulfillmentData>
+     <IsBusinessOrder>false</IsBusinessOrder>
+     <PaymentMethodDetails>Standard</PaymentMethodDetails>
+     <OrderItem>
+        <AmazonOrderItemCode>45726236787922</AmazonOrderItemCode>
+        <ASIN>B0B278K4BF</ASIN>
+        <SKU>MG-OV-YL</SKU>
+        <ItemStatus>Unshipped</ItemStatus>
+        <ProductName>ARTESANO | Mexican Pottery Ceramic Large Mug of Talavera Hand Painted | to Drink Coffee, Chocolate, Tea, Cappuccino | Cup Extra Large 16 oz | 4.6&quot; (Ye</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="USD">26.97</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>112-5681980-6815403</AmazonOrderID>
+      <MerchantOrderID>112-5681980-6815403</MerchantOrderID>
+      <PurchaseDate>2022-12-06T21:52:32+00:00</PurchaseDate>
+      <LastUpdatedDate>2022-12-09T14:45:49+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.com</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Standard</ShipServiceLevel>
+         <Address>
+            <City>FOLSOM</City>
+            <State>CA</State>
+            <PostalCode>95630-8550</PostalCode>
+            <Country>US</Country>
+         </Address>
+     </FulfillmentData>
+     <IsBusinessOrder>false</IsBusinessOrder>
+     <PaymentMethodDetails>Standard</PaymentMethodDetails>
+     <OrderItem>
+        <AmazonOrderItemCode>60813005991394</AmazonOrderItemCode>
+        <ASIN>B09Y7GZ169</ASIN>
+        <SKU>SR0002</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Napkin Holder Mexican Pottery Hand Painted | Ceramic Utensil Holder Servilletero for Kitchen | Decor for Fiestas Mexicanas | Artesania Mexicana | ARTE</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="USD">22.97</Amount>
+           </Component>
+           <Component>
+              <Type>Shipping</Type>
+              <Amount currency="USD">1.67</Amount>
+           </Component>
+           <Component>
+              <Type>Tax</Type>
+              <Amount currency="USD">1.78</Amount>
+           </Component>
+        </ItemPrice>
+        <Promotion>
+          <PromotionIDs>US Core Free Shipping Promotion A3JU1FCINF5SD0</PromotionIDs>
+           <ShipPromotionDiscount>1.67</ShipPromotionDiscount>
+        </Promotion>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>114-5584340-1119459</AmazonOrderID>
+      <MerchantOrderID>114-5584340-1119459</MerchantOrderID>
+      <PurchaseDate>2022-12-06T00:37:12+00:00</PurchaseDate>
+      <LastUpdatedDate>2022-12-06T00:38:44+00:00</LastUpdatedDate>
+      <OrderStatus>Pending</OrderStatus>
+      <SalesChannel>Amazon.com</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>SecondDay</ShipServiceLevel>
+         <Address>
+            <City>LUFKIN</City>
+            <State>TX</State>
+            <PostalCode>75901-2017</PostalCode>
+            <Country>US</Country>
+         </Address>
+     </FulfillmentData>
+     <IsBusinessOrder>false</IsBusinessOrder>
+     <PaymentMethodDetails>Standard</PaymentMethodDetails>
+     <OrderItem>
+        <AmazonOrderItemCode>23402170523978</AmazonOrderItemCode>
+        <ASIN>B07XDRNZ5N</ASIN>
+        <SKU>SPCB-US</SKU>
+        <ItemStatus>Unshipped</ItemStatus>
+        <ProductName>Talavera Spoon Rest Mexican Pottery Hand Painted - Mexican Pottery Handcrafted Majolica | ARTESANO (Cobalt Blue)</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="USD">24.97</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>111-3319836-8398636</AmazonOrderID>
+      <MerchantOrderID>111-3319836-8398636</MerchantOrderID>
+      <PurchaseDate>2022-12-05T02:41:32+00:00</PurchaseDate>
+      <LastUpdatedDate>2022-12-07T21:16:59+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.com</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Expedited</ShipServiceLevel>
+         <Address>
+            <City>QUINCY</City>
+            <State>MA</State>
+            <PostalCode>02169-5553</PostalCode>
+            <Country>US</Country>
+         </Address>
+     </FulfillmentData>
+     <IsBusinessOrder>false</IsBusinessOrder>
+     <PaymentMethodDetails>Standard</PaymentMethodDetails>
+     <OrderItem>
+        <AmazonOrderItemCode>12001605581962</AmazonOrderItemCode>
+        <ASIN>B07XDRNZ5N</ASIN>
+        <SKU>SPCB-US</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Talavera Spoon Rest Mexican Pottery Hand Painted - Mexican Pottery Handcrafted Majolica | ARTESANO (Cobalt Blue)</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="USD">24.97</Amount>
+           </Component>
+           <Component>
+              <Type>Tax</Type>
+              <Amount currency="USD">1.56</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+<Message>
+   <Order>
+      <AmazonOrderID>114-0962319-0550655</AmazonOrderID>
+      <MerchantOrderID>114-0962319-0550655</MerchantOrderID>
+      <PurchaseDate>2022-12-02T14:07:42+00:00</PurchaseDate>
+      <LastUpdatedDate>2022-12-04T14:52:53+00:00</LastUpdatedDate>
+      <OrderStatus>Shipped</OrderStatus>
+      <SalesChannel>Amazon.com</SalesChannel>
+      <FulfillmentData>
+         <FulfillmentChannel>Amazon</FulfillmentChannel>
+         <ShipServiceLevel>Expedited</ShipServiceLevel>
+         <Address>
+            <City>HARWOOD HEIGHTS</City>
+            <State>IL</State>
+            <PostalCode>60706-3496</PostalCode>
+            <Country>US</Country>
+         </Address>
+     </FulfillmentData>
+     <IsBusinessOrder>false</IsBusinessOrder>
+     <PaymentMethodDetails>Standard</PaymentMethodDetails>
+     <OrderItem>
+        <AmazonOrderItemCode>00619756100738</AmazonOrderItemCode>
+        <ASIN>B09Y7GZ169</ASIN>
+        <SKU>SR0002</SKU>
+        <ItemStatus>Shipped</ItemStatus>
+        <ProductName>Napkin Holder Mexican Pottery Hand Painted | Ceramic Utensil Holder Servilletero for Kitchen | Decor for Fiestas Mexicanas | Artesania Mexicana | ARTE</ProductName>
+        <Quantity>1</Quantity>
+        <ItemPrice>
+           <Component>
+              <Type>Principal</Type>
+              <Amount currency="USD">22.97</Amount>
+           </Component>
+           <Component>
+              <Type>Tax</Type>
+              <Amount currency="USD">2.35</Amount>
+           </Component>
+        </ItemPrice>
+     </OrderItem>
+  </Order>
+</Message>
+</AmazonEnvelope>
